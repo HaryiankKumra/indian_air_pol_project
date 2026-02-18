@@ -3,7 +3,7 @@
 ## Project Overview
 This project learns parameters of a probability density function (PDF) using a roll-number-parameterized non-linear transformation on the NO2 feature from the India Air Quality dataset.
 
-## Your Roll Number: 102303088
+## Roll Number: 102303088
 
 ### Calculated Transformation Parameters:
 - **ar** = 0.05 × (102303088 mod 7) = 0.05 × 6 = **0.30**
